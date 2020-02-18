@@ -4,6 +4,10 @@ about: Create a bug report for Amazon FreeRTOS
 labels: bug
 
 ---
+**Utilize the community first**
+1. To be unstuck as quickly as possible, we recommend first searching on the [FreeRTOS Community Support Forums](https://forums.freertos.com) and [GitHub issue tracker](https://github.com/aws/amazon-freertos/issues) to be sure this hasn't already been reported or discussed.
+2. If your search turns up empty, we recommend creating a new topic in the [forums](https://forums.freertos.org) and work with the community to help clarify the bug first. Include as many of the details listed below.
+3. If the community review determines that you've uncovered a bug, please fill out this issue with the details below and a link to the discussion thread.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
